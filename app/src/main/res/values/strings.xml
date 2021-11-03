@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quake Report App</string>
+    <string name="settings">Settings</string>
+    <string name="e_settings">Earthquake Settings</string>
+</resources>
